@@ -37,12 +37,12 @@ pip install pillow
 ### **Basic Usage**
 ```bash
 # Run as Administrator
-python wallpaper_smoother.py "C:\path\to\your\wallpaper.jpg"
+python win11smoothbg.py "C:\path\to\your\wallpaper.jpg"
 ```
 
 ### **Command Line Help**
 ```bash
-python wallpaper_smoother.py 
+python win11smoothbg.py 
 ```
 
 **Important:** Always run the script as Administrator. The script will automatically check for admin privileges and prompt you if needed.
