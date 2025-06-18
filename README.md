@@ -2,7 +2,7 @@
 
 **Eliminates tiny, but jarring wallpaper jump between Windows login and desktop - creates buttery smooth transition**
 
-Ever notice how Windows zooms in your wallpaper by approximately 2% when you start typing your password? Well I did... I couldn't stand that jarring transition from the logon screen to desktop, so I built this script to create seamless visual continuity. By intelligently processing and syncing both lock screen and desktop wallpapers, this tool ensures your background flows smoothly from login to desktop.
+Ever notice how Windows zooms in your wallpaper by approximately 2% when you start typing your password? [Well I do...](https://youtu.be/eJO5HU_7_1w?t=103) I couldn't stand that jarring transition from the logon screen to desktop, so I built this script to create seamless visual continuity. By intelligently processing and syncing both lock screen and desktop wallpapers, this tool ensures your background flows smoothly from login to desktop.
 
 ## ✨ Key Features
 
